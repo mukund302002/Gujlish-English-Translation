@@ -2,9 +2,7 @@
 
 This repository accompanies our paper accepted at **LM4UC Workshop, AAAI 2026**:
 
-Paper link -:
-Model link -:
-Dataset link -: 
-Inferene -: 
-Example translation
+Paper link -: https://openreview.net/pdf?id=2YnbMfsN2t
+Model link -: https://huggingface.co/mukundagarwalla2002/Gujlish-English_translation
+
 
